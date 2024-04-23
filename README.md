@@ -219,11 +219,13 @@ endmodule
 
 ### Logic Diagram:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/3519209f-b331-41a0-a6a9-06a4d9fb5f6d)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/86953473-e21f-4185-ad89-fe8965cefa24)
 
 
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/f18c4b97-13b2-4b64-beb3-ffff493b6e06)
+
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/d7c60d2a-64f8-47e8-b144-e1b81aee87e9)
+
 
 
 
