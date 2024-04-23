@@ -54,7 +54,8 @@ endmodule
 
 ### Output:
 
-![SR](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/0f6d3c8a-68ed-42c1-950f-97b055ceaf98)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/4baabba2-7e30-4587-a960-75a588677d4c)
+
 
 
 ## JK FLIPFLOP:
@@ -88,7 +89,8 @@ endmodule
 
 ### Output:
 
-![JK](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/f10f8a81-e7aa-44f7-a5ee-70f276eeb4ba)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/77f7512b-8bd4-4491-9ecb-fbbdd1512946)
+
 
 ## T FLIPFLOP:
 
@@ -116,7 +118,8 @@ endmodule
 
 ### Output:
 
-![TFF](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/111a7a8f-4e01-4ac4-90c1-4a1a45d13115)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/97dda3a9-e2f5-4cfe-81fa-1e3b444a4a1d)
+
 
 
 ## D FLIPFLOP:
@@ -143,7 +146,8 @@ endmodule
 
 ### Output:
 
-![DFF](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/03c4477f-c15a-4898-9e11-df5f1ff4850a)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/1d8b7801-c95e-467e-aa6d-a73963c7858e)
+
 
 ## COUNTER:
 
@@ -155,7 +159,8 @@ endmodule
 
 ### Logic Diagram:
 
-![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/dd12585a-157f-4b6f-a0c3-b421bb52434c)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/85acb718-12c3-4a72-b39d-86af8fc6d98d)
+
 
 
 ### Verilog Code:
@@ -178,13 +183,15 @@ endmodule
 
 ### Output:
 
-![Screenshot 2024-04-06 134430](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/c37fe928-351f-4e40-bf5a-49491aab4bfc)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/a05afbf3-5d51-440e-8751-8a8db642548a)
+
 
 ## Mod-10 Counter:
 
 ### Logic Diagram:
 
-![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/3a4a4da2-7488-411d-8ea5-2e57c4fd942f)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/7f34c387-c4a2-42e9-92d3-8ad10a7fe658)
+
 
 
 ### Verilog Code:
@@ -205,16 +212,18 @@ endmodule
 
 ### Output:
 
-![Screenshot 2024-04-06 135522](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/c6465024-ee28-4781-ba9a-9bec97dd2c1a)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/3d51965f-70ad-403f-a908-3978b841d049)
+
 
 ## Ripple Carry Counter:
 
 ### Logic Diagram:
 
-![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/129b1a22-407f-4f38-adff-b4dbf3595eb7)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/3519209f-b331-41a0-a6a9-06a4d9fb5f6d)
 
 
-![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/fecad9d3-7f49-4c98-91f4-443803a60e37)
+
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/f18c4b97-13b2-4b64-beb3-ffff493b6e06)
 
 
 
@@ -254,7 +263,7 @@ endmodule
 
 ### Output:
 
-![Screenshot 2024-04-06 144719](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/4a1a2d79-9e4d-4b0a-bda9-64bb19952f67)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/fa96f225-df0b-4637-9912-6e6444ee95f7)
 
 
 ## RESULT:
